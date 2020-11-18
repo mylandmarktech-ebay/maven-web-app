@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology  --> A Metropolitan University Company</h1>
+<h1 align="center">Landmark Technology  --> A Metropolitan University Company Leaders in Software Delivery and Devops Automation</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
