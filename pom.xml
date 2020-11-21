@@ -104,7 +104,7 @@
 	    <snapshotRepository>                                                                  
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.198.88.139:8888/landmarktech/repository/ebay-snapshot/</url> 
+	      <url>http://54.208.80.198:8888/landmarktech/repository/ebay-snapshot/</url> 
 	    </snapshotRepository>
 	    
 	</distributionManagement>
